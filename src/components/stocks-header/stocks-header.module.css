@@ -1,0 +1,15 @@
+Copy code .container {
+  height: 2em;
+  width: 100%;
+  display: flex;
+  align-items: center;
+}
+
+.select {
+  background-color: rgb(43, 54, 71);
+  color: white;
+  font-size: large;
+  width: 250px;
+  height: 50px;
+  margin-right: 10px;
+}

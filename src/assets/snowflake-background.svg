@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <!-- Rings -->
+  <circle cx="50" cy="50" r="30" fill="#333333" />
+  <circle cx="50" cy="50" r="25" fill="#cccccc" />
+  <circle cx="50" cy="50" r="20" fill="#333333" />
+  <circle cx="50" cy="50" r="15" fill="#cccccc" />
+  <circle cx="50" cy="50" r="10" fill="#333333" />
+  <circle cx="50" cy="50" r="5" fill="#cccccc" />
+  
+  <!-- Lines -->
+  <line x1="50" y1="50" x2="50" y2="20" stroke="#cccccc" stroke-width="1.2" />
+  <line x1="50" y1="50" x2="78.3" y2="40" stroke="#cccccc" stroke-width="1.2" />
+  <line x1="50" y1="50" x2="71" y2="71.6" stroke="#cccccc" stroke-width="1.2" />
+  <line x1="50" y1="50" x2="29.1" y2="71.6" stroke="#cccccc" stroke-width="1.2" />
+  <line x1="50" y1="50" x2="21.7" y2="40" stroke="#cccccc" stroke-width="1.2" />
+  
+  <!-- Text -->
+  <text x="50" y="17" text-anchor="middle" fill="#cccccc" font-size="6" font-family="monospace">VALUE</text>
+  <text x="54" y="-63" fill="#cccccc" transform="rotate(70)" font-size="6" font-family="monospace">FUTURE</text>
+  <text x="0" y="108" text-anchor="middle" fill="#cccccc" transform="rotate(-45)" font-size="6" font-family="monospace">PAST</text>
+  <text x="69" y="43" text-anchor="middle" fill="#cccccc" transform="rotate(40)" font-size="6" font-family="monospace">HEALTH</text>
+  <text x="-25" y="33" text-anchor="middle" fill="#cccccc" transform="rotate(-65)" font-size="6" font-family="monospace">DIVIDEND</text>
+</svg>
